@@ -11,6 +11,6 @@ class Student
     @id = id
   end
   
-  def 
+
 
 end
